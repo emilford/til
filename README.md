@@ -7,7 +7,12 @@ I'm not sure whether that's actually factual or not; it seems plausible. I love 
 
 ## Categories
 
+* [Breathing](#breathing)
 * [HTML](#html)
+
+#### Breathing
+
+- [Breathing Through Your Nose = More Oxygenated Blood](breathing/nose-breathing-nitrogen-oxide.md)
 
 #### HTML
 
