@@ -8,6 +8,7 @@ I'm not sure whether that's actually factual or not; it seems plausible. I love 
 ## Categories
 
 * [Breathing](#breathing)
+* [Food](#food)
 * [HTML](#html)
 
 #### Breathing
